@@ -1,0 +1,27 @@
+<snippet>
+	<description>ConTeXt-setupitemize</description>
+	<content><![CDATA[
+\setupitemize[each][a,packed]
+			%[    ] => 1   •
+			%[    ] => 2   −
+			%[    ] => 3   ⋆
+			%[    ] => n   1234⋯
+			%[    ] => a   abcd⋯
+			%[    ] => A   ABCD⋯
+			%[    ] => r   i ii iii iv ⋯
+			%[    ] => R   I II III IV ⋯
+				 %[         ]	`packed`                no vertical spacing between items
+				 %[         ]	`broad`                 horizontal spacing between separator and text
+				 %[         ]	`columns`               items in columns
+				 %[         ]	`standard`     			standard (global) set up
+				 %[         ]	`serried`             	no horizontal spacing between separator and text
+				 %[         ]	`joinedup`            	no vertical spacing before and after itemize
+				 %[         ]	`inmargin`              place separator in margin
+				 %[         ]	`atmargin`              place separator on margin
+				 %[         ]	`stopperplace`          full stop after separator
+				 %[         ]	`intro`                 prevent page breaking after introduction line
+				 %[         ]	`continue`              continue numbering or lettering
+	]]></content>
+	<tabTrigger>ConTeXt-setupitemize</tabTrigger>
+	<scope>-source</scope>
+</snippet>

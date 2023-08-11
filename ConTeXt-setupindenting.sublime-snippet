@@ -1,0 +1,14 @@
+<snippet>
+	<description>ConTeXt-setupidenting</description>
+	<content><![CDATA[
+% Indenting [4.4 cont-enp.p.65]
+\setupindenting[yes, 3ex]  % none small medium big next first dimension
+\indenting[next]           % never not no yes always first next
+
+% [cont-ent.p.76]
+\setupspacing[broad]  %broad packed
+% O tamanho do espaço entre o ponto final e o começo de uma sentença. 
+	]]></content>
+	<tabTrigger>ConTeXt-setupidenting</tabTrigger>
+	<scope>-source</scope>
+</snippet>

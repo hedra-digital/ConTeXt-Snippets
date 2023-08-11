@@ -1,0 +1,11 @@
+<snippet>
+	<description>ConTeXt-placefigure</description>
+	<content><![CDATA[
+\placefigure
+            [][fig:church]
+            {Stephanus Church.}
+            {\externalfigure[ma-cb-24][width=.4\textwidth]}
+	]]></content>
+	<tabTrigger>ConTeXt-placefigure</tabTrigger>
+	<scope>-source</scope>
+</snippet>

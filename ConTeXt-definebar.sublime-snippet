@@ -1,0 +1,14 @@
+<snippet>
+	<description>ConTeXt-definebar</description>
+	<content><![CDATA[
+\definebar[highlight]
+          [order=background,
+           rulethickness=2.5,
+           offset=1.25,
+           continue=yes,
+           color=yellow]
+Example: some \highlight{stricken} text.
+	]]></content>
+	<tabTrigger>ConTeXt-definebar</tabTrigger>
+	<scope>-source</scope>
+</snippet>

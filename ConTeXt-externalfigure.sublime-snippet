@@ -1,0 +1,10 @@
+<snippet>
+	<description>ConTeXt-extermalfigure</description>
+	<content><![CDATA[
+\externalfigure
+              [cow.pdf]
+              [width=.1\textwidth]
+	]]></content>
+	<tabTrigger>ConTeXt-extermalfigure</tabTrigger>
+	<scope>-source</scope>
+</snippet>

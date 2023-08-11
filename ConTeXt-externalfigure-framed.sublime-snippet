@@ -1,0 +1,15 @@
+<snippet>
+	<description>ConTeXt-externalfigure-framed</description>
+	<content><![CDATA[
+\externalfigure
+              [cow.pdf]
+              [width=.1\textwidth,
+              frame=on,
+              framecolor=gray,
+              frameoffset=3pt,
+              rulethickness=3pt,
+              framecorner=round]
+	]]></content>
+	<tabTrigger>ConTeXt-externalfigure-framed</tabTrigger>
+	<scope>-source</scope>
+</snippet>

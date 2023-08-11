@@ -1,0 +1,9 @@
+<snippet>
+	<description>ConTeXt-show</description>
+	<content><![CDATA[\showlayout  %Mostra as linhas e medidas juntos.
+%\showboxes  %Serve para mostrar todas as linhas da diagramação e medidas.
+%\showsetups %Para mostrar somente as medidas.
+%\showframe  %Para mostrar somente as linhas.]]></content>
+	<tabTrigger>ConTeXt-show</tabTrigger>
+	<scope>-source</scope>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+	<description>ConTeXt-tikz-overlay</description>
+	<content><![CDATA[
+\starttikzpicture[remember picture,overlay]
+  \fill[red] (current page.south east) rectangle ++(-5cm, \paperheight);
+  \draw[step=1cm,gray,very thin] (-\paperwidth,-\paperheight) grid (\paperwidth,\paperheight);
+  \fill [red] (current page.south west) circle (10pt) node {south west};
+  \fill [red] (current page.south east) circle (10pt) node {south east};
+  \fill [red] (current page.north west) circle (10pt) node {north west};
+  \fill [red] (current page.north east) circle (10pt) node {north east};
+  \draw [green, <->] (current page.north east) -- (current page.south west);
+\stoptikzpicture
+	]]></content>
+	<tabTrigger>ConTeXt-tikz-overlay</tabTrigger>
+	<scope>-source</scope>
+</snippet>

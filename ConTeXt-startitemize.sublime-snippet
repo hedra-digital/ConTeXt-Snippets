@@ -1,0 +1,11 @@
+<snippet>
+	<description>ConTeXt-startitemize</description>
+	<content><![CDATA[
+\startitemize[a]
+\item ...
+\item ...
+\stopitemize
+	]]></content>
+	<tabTrigger>ConTeXt-startitemize</tabTrigger>
+	<scope>-source</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<description>ConTeXt-setupnarrower</description>
+	<content><![CDATA[
+\setupnarrower[middle=0cm, left=0cm, right=0cm,before={\blank[medium]},after={\blank[medium]}]
+	]]></content>
+	<tabTrigger>ConTeXt-setupnarrower</tabTrigger>
+	<scope>-source</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<description>ConTeXt-definepapersize</description>
+	<content><![CDATA[
+\definepapersize    [21x30]       [width=210mm, height=297mm]
+\definepapersize    [21x30plus]   [width=230mm, height=317mm]
+\setuppapersize     [21x30]       [21x30plus]
+	]]></content>
+	<tabTrigger>ConTeXt-definepapersize</tabTrigger>
+	<scope>-source</scope>
+</snippet>

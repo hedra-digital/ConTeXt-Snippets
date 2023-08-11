@@ -1,0 +1,8 @@
+<snippet>
+	<description>ConTeXt-adaptlayout</description>
+	<content><![CDATA[
+\adaptlayout[height=\baselineskip]
+	]]></content>
+	<tabTrigger>ConTeXt-adaptlayout</tabTrigger>
+	<scope>-source</scope>
+</snippet>

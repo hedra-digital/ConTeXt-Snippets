@@ -1,0 +1,21 @@
+<snippet>
+	<description>ConTeXt-placefigure-complete</description>
+	<content><![CDATA[
+% https://wiki.contextgarden.net/Command/_placefloat
+\placefigure[
+  			% none,
+    	    % inner, outer, top, bottom, bottom inleft, inright, 
+    	      % inmargin, margin, leftmargin, rightmargin, 
+    	      % leftedge, rightedge, innermargin, inneredge, 
+    	      % outeredge, innner , outer,
+			  % here,                  % put figure at this location if possible
+			  % force,                 % force figure placement here
+			  % page,                  % put figure on its own page
+			]{}{\externalfigure[image][
+										width=.3\textwidth,
+										%height=8em
+									  ]} 
+	]]></content>
+	<tabTrigger>ConTeXt-placefigure-complete</tabTrigger>
+	<scope>-source</scope>
+</snippet>

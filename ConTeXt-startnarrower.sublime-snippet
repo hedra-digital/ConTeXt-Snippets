@@ -1,0 +1,11 @@
+<snippet>
+	<description>ConTeXt-startnarrower</description>
+	<content><![CDATA[
+\startnarrower[left,right]
+
+\stopnarrower
+
+	]]></content>
+	<tabTrigger>ConTeXt-startnarrower</tabTrigger>
+	<scope>-source</scope>
+</snippet>

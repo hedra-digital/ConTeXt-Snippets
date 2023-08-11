@@ -2,17 +2,15 @@
 	<description>ConTeXt-definefontfamily</description>
 	<content><![CDATA[
 % https://wiki.contextgarden.net/Command/definefontfamily
-\definefontfamily [mainface] [rm] [Linux Libertine O]
-\definefontfamily [mainface] [ss] [Arial]
-\definefontfamily [mainface] [mm] [Times]
 \definefontfeature
 	[default]
 	[default]
 	[expansion=quality,protrusion=quality,onum=yes]
 \setupalign[hz,hanging]
-
+\definefontfamily [mainface] [rm] [Linux Libertine O]
+\definefontfamily [mainface] [ss] [Arial]
+\definefontfamily [mainface] [mm] [Times]
 \setupbodyfont[mainface]
-
 	]]></content>
 	<tabTrigger>ConTeXt-definefontfamily</tabTrigger>
 	<scope>-source</scope>

@@ -13,7 +13,7 @@ First, install the `snippet`
 Execute `make`.
 
 
-Type the beginning of the `snippet`, eg: "ConTeXt-" or "mussum" and press tab, choose the `snippet`, press <enter>.
+Type the beginning of the `snippet`, eg: "ConTeXt-" or "start" and press tab, choose the `snippet`, press <enter>.
 
 ![](snippets.png)
 

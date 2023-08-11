@@ -9,8 +9,10 @@
 	[default]
 	[default]
 	[expansion=quality,protrusion=quality,onum=yes]
+\setupalign[hz,hanging]
 
 \setupbodyfont[mainface]
+
 	]]></content>
 	<tabTrigger>ConTeXt-definefontfamily</tabTrigger>
 	<scope>-source</scope>

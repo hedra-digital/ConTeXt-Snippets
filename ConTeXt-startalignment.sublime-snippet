@@ -1,0 +1,12 @@
+<snippet>
+	<description>ConTeXt-startalignment</description>
+	<content><![CDATA[
+\startalignment[left]
+
+\stopalignment              
+	]]></content>
+	<tabTrigger>ConTeXt-startalignment</tabTrigger>
+	<scope>-source</scope>
+</snippet>
+
+

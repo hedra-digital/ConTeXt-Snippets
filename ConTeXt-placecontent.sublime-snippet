@@ -1,0 +1,6 @@
+<snippet>
+	<description>ConTeXt-placecontent</description>
+	<content><![CDATA[\placecontent         % or \completecontent]]></content>
+	<tabTrigger>ConTeXt-placecontent</tabTrigger>
+	<scope>-source</scope>
+</snippet>

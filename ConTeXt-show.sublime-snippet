@@ -1,6 +1,6 @@
 <snippet>
 	<description>ConTeXt-show</description>
-	<content><![CDATA[\showlayout  %Mostra as linhas e medidas juntos.
+	<content><![CDATA[\showlayout  %Mostra as linhas e medidas juntos. Depois de \starttext!
 %\showboxes  %Serve para mostrar todas as linhas da diagramação e medidas.
 %\showsetups %Para mostrar somente as medidas.
 %\showframe  %Para mostrar somente as linhas.]]></content>

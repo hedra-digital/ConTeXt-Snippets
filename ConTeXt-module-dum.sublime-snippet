@@ -1,0 +1,8 @@
+<snippet>
+	<description>ConTeXt-images-MPlibraries-dum</description>
+	<content><![CDATA[
+\useMPlibrary[dum]
+	]]></content>
+	<tabTrigger>ConTeXt-images-MPlibraries-dum</tabTrigger>
+	<scope>-source</scope>
+</snippet>

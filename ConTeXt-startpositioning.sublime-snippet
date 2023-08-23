@@ -1,0 +1,9 @@
+<snippet>
+	<description>ConTeXt-starttext</description>
+	<content><![CDATA[\startpositioning
+\position(0,0){}
+\startpositioning
+	]]></content>
+	<tabTrigger>ConTeXt-starttext</tabTrigger>
+	<scope>-source</scope>
+</snippet>

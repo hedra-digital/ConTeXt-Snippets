@@ -1,0 +1,7 @@
+<snippet>
+	<description>ConTeXt-setupmarginblock</description>
+	<content><![CDATA[\setupmarginblock[width=5cm,top=\vfilll]
+	]]></content>
+	<tabTrigger>ConTeXt-setupmarginblock</tabTrigger>
+	<scope>-source</scope>
+</snippet>

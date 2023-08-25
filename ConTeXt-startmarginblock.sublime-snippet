@@ -1,0 +1,8 @@
+<snippet>
+	<description>ConTeXt-startmarginblock</description>
+	<content><![CDATA[\startmarginblock
+		\stopmarginblock
+	]]></content>
+	<tabTrigger>ConTeXt-startmarginblock</tabTrigger>
+	<scope>-source</scope>
+</snippet>

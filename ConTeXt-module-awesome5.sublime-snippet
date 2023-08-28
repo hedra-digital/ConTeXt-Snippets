@@ -1,0 +1,9 @@
+<snippet>
+	<description>ConTeXt-setupcaption</description>
+	<content><![CDATA[\usesymbols[awesome5]
+%\symbol[awesome5-regular][square]
+%\showsymbolset[awesome5-regular] %[awesome5-solid] %[awesome5-brands]
+]]></content>
+	<tabTrigger>ConTeXt-setupcaption</tabTrigger>
+	<scope>-source</scope>
+</snippet>

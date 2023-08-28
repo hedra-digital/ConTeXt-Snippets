@@ -1,0 +1,7 @@
+<snippet>
+	<description>ConTeXt-setupcaption</description>
+	<content><![CDATA[\setupcaption[figure][number=no,hang,style={\switchtobodyfont[small]\setupinterlinespace\it}]
+	]]></content>
+	<tabTrigger>ConTeXt-setupcaption</tabTrigger>
+	<scope>-source</scope>
+</snippet>

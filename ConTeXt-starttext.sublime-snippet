@@ -1,8 +1,8 @@
 <snippet>
-	<description>ConTeXt-starttikzpicture</description>
-	<content><![CDATA[\starttikzpicture[remember picture,overlay]
-\stoptikzpicture
+	<description>ConTeXt-starttext</description>
+	<content><![CDATA[\starttext
+\stoptext
 	]]></content>
-	<tabTrigger>ConTeXt-starttikzpicture</tabTrigger>
+	<tabTrigger>ConTeXt-starttext</tabTrigger>
 	<scope>-source</scope>
 </snippet>

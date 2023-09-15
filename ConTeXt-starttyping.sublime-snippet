@@ -1,0 +1,9 @@
+<snippet>
+	<description>ConTeXt-starttyping</description>
+	<content><![CDATA[
+\starttyping[option=TEX]
+\stoptyping
+	]]></content>
+	<tabTrigger>ConTeXt-starttyping</tabTrigger>
+	<scope>-source</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<description>ConTeXt-module-awesome5</description>
+	<content><![CDATA[\usesymbols[awesome5]
+%\symbol[awesome5-regular][square]
+%\showsymbolset[awesome5-regular] %[awesome5-solid] %[awesome5-brands]
+]]></content>
+	<tabTrigger>ConTeXt-module-awesome5</tabTrigger>
+	<scope>-source</scope>
+</snippet>

@@ -2,16 +2,29 @@
 	<description>ConTeXt-setuplayout</description>
 	<content><![CDATA[
 \setuplayout[
-              width=125mm,              % dimension fit middle
-              height=265mm,             % dimension fit middle 
-              topspace=15mm,            % dimension
-              marking=on,               % on off color
-              location=middle,          % left middle right bottom top singlesided doublesided
-              grid=yes                  % yes no
-              cutspace=2cm,             % extra... 
-              cutmark=yes,              % extra...
-              bleedoffset=1cm,          % extra...
-              trimoffset=1cm            % extra...
+          location=middle,
+          %
+          leftedge=0mm,
+          leftedgedistance=0mm,
+          leftmargin=20mm,
+          leftmargindistance=0mm,
+          width=100mm,
+          rightmargindistance=0mm,
+          rightmargin=20mm,
+          rightedgedistance=0mm,
+          rightedge=0mm,
+          backspace=20mm,
+          %
+          top=21mm,
+          topdistance=0mm,
+          header=0mm,
+          headerdistance=0mm,
+          height=168mm,
+          footerdistance=0mm,
+          footer=0mm,
+          bottomdistance=0mm,
+          bottom=21mm,
+          topspace=21mm,
 ]
 	]]></content>
 	<tabTrigger>ConTeXt-setuplayout</tabTrigger>

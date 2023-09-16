@@ -2,7 +2,7 @@
 	<description>ConTeXt-startpositioning</description>
 	<content><![CDATA[\startpositioning
 \position(0,0){}
-\startpositioning
+\stoppositioning
 	]]></content>
 	<tabTrigger>ConTeXt-startpositioning</tabTrigger>
 	<scope>-source</scope>

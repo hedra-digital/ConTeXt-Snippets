@@ -1,0 +1,9 @@
+<snippet>
+	<description>ConTeXt-setuppagenumbering</description>
+	<content><![CDATA[\setuppagenumbering
+  [alternative=doublesided, % Manchas espelhadas
+   location={header,right}, % Localização do cabeçalho
+   style=normal]            % Estilo dos números de páginat]]></content>
+	<tabTrigger>ConTeXt-setuppagenumbering</tabTrigger>
+	<scope>-source</scope>
+</snippet>

@@ -1,7 +1,7 @@
 <snippet>
 	<description>ConTeXt-adaptlayout</description>
 	<content><![CDATA[
-\adaptlayout[height=\baselineskip]
+\adaptlayout[lines=+1]
 	]]></content>
 	<tabTrigger>ConTeXt-adaptlayout</tabTrigger>
 	<scope>-source</scope>

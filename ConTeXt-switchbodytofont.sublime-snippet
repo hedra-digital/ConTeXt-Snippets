@@ -1,0 +1,6 @@
+<snippet>
+	<description>ConTeXt-switchtobodyfont</description>
+	<content><![CDATA[\switchtobodyfont[10pt]]]></content>
+	<tabTrigger>ConTeXt-switchtobodyfont</tabTrigger>
+	<scope>-source</scope>
+</snippet>

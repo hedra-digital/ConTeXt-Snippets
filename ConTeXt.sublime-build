@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "context --luatex $file_base_name.tex --purgeall && evince $file_base_name.pdf"
+}
+
+
